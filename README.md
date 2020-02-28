@@ -1,5 +1,8 @@
 # LteSchedulingWithRL
 
+Description
+-----------------------------------
+
 This code can be used to estimate resource scheduling efficiency in LTE system.
 
 It lets to compare three algorithms: RoundRobin, BestCQI and RLAgent.
