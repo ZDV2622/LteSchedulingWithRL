@@ -30,7 +30,7 @@ Example of results:
 Here is example of PGagent learning.
 Reward depends on the strategy
 
-![Simulation](/img/example_7_3.jpg)
+![Simulation](/img/example_7_3.png)
 
 
 
