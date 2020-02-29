@@ -1,4 +1,4 @@
-# LteSchedulingWithRL
+# Scheduling with RL in LTE network
 
 Description
 -----------------------------------
