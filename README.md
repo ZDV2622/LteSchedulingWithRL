@@ -7,7 +7,6 @@ This code can be used to estimate efficiency of resource scheduling  in LTE syst
 It lets to compare three algorithms: RoundRobin, BestCQI and RLAgent.
 This model lets to investigate, how diffrent RL technique(DQN, PG) can be applied to solve optimization problem.
 
-Very simple model is used for traffic generation. It doesn't take into account requests delay and UE prioryty, also it doesn't support buffer. In each subframe we generate new requests and if it is not sent, it will be lost. All these drawbacks will be eliminated in the next update. So the traffic model lets to investigate all cell throughput optimization but can't be applied for ue throughput optimization.
 
 Some information about resourse allocation in LTE can be found here:
 --------------------------------------------
